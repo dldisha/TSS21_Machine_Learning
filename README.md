@@ -19,6 +19,7 @@ Intro to Machine Learning is a busy, fast-paced course. A wide range of fundamen
   * Google Colab HW - [Exploratory data analysis on Google’s COVID-19 Community Mobility data](https://github.com/dldisha/TSS21_Machine_Learning/blob/main/HW1_Exploratory_Data_Analysis_DishaLamba.ipynb)
 
 * Linear regression
+   * Google Colab Hw - [ Linear regression on the Advertising data](https://github.com/dldisha/TSS21_Machine_Learning/blob/main/Hw2_Linear_Regression.ipynb)
 * Gradient descent
 * Bias-variance tradeoff, model selection
 * Regularization
