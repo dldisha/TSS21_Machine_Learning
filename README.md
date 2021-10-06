@@ -16,6 +16,8 @@ Intro to Machine Learning is a busy, fast-paced course. A wide range of fundamen
 
 #### Algos covered
 * Intro ML, exploratory data analysis
+  * Google Colab HW - [Exploratory data analysis on Google’s COVID-19 Community Mobility data](https://github.com/dldisha/TSS21_Machine_Learning/blob/main/HW1_Exploratory_Data_Analysis_DishaLamba.ipynb)
+
 * Linear regression
 * Gradient descent
 * Bias-variance tradeoff, model selection
