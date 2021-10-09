@@ -22,6 +22,7 @@ Intro to Machine Learning is a busy, fast-paced course. A wide range of fundamen
    * Google Colab Hw - [ Linear regression on the Advertising data](https://github.com/dldisha/TSS21_Machine_Learning/blob/main/Hw2_Linear_Regression.ipynb)
 * Gradient descent
 * Bias-variance tradeoff, model selection
+   * Google Colab Hw - [Predicting the hand motion from the neural signals from the motor cortex](https://github.com/dldisha/TSS21_Machine_Learning/blob/main/HW3_Model_Selection.ipynb)
 * Regularization
 * Logistic regression
 * K nearest neighbor
