@@ -29,6 +29,7 @@ Intro to Machine Learning is a busy, fast-paced course. A wide range of fundamen
 * Decision tree, ensemble methods
 * Support vector machines
 * Neural networks
+   * Google Colab Hw - [Neural Networks for Music Classification](https://github.com/dldisha/TSS21_Machine_Learning/blob/main/HW7_Neural_Networks.ipynb)
 * Convolutional neural networks
 * Reinforcement learning
 * Research based project
