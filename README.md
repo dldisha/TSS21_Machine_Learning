@@ -27,8 +27,8 @@ Intro to Machine Learning is a busy, fast-paced course. A wide range of fundamen
 * Logistic regression
 * K nearest neighbor
    * Google Colab Hw - [Using KNN on Voter classification using exit poll data](https://github.com/dldisha/TSS21_Machine_Learning/blob/main/HW5_KNN.pdf)
-* Decision tree, ensemble methods
-* Support vector machines
+* Decision tree, ensemble methods, Support vector machines
+   * Problem Set - [ d ecision Trees, SVM problems and numericals](https://github.com/dldisha/TSS21_Machine_Learning/blob/main/HW6_Decision%20trees%2C%20SVM.pdf)
 * Neural networks
    * Google Colab Hw - [Neural Networks for Music Classification](https://github.com/dldisha/TSS21_Machine_Learning/blob/main/HW7_Neural_Networks.ipynb)
 * Convolutional neural networks
