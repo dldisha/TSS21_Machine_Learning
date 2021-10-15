@@ -31,6 +31,8 @@ Intro to Machine Learning is a busy, fast-paced course. A wide range of fundamen
 * Neural networks
    * Google Colab Hw - [Neural Networks for Music Classification](https://github.com/dldisha/TSS21_Machine_Learning/blob/main/HW7_Neural_Networks.ipynb)
 * Convolutional neural networks
+* Unsupervised Learning
+  * Google Colab Hw - [Unsupervised learning on Kaggle dataset about the state of machine learning and data science 2020](https://github.com/dldisha/TSS21_Machine_Learning/blob/main/HW9_UnsupervisedLearning.ipynb)
 * Reinforcement learning
 * Research based project
 
