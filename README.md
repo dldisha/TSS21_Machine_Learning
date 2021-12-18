@@ -36,7 +36,7 @@ Intro to Machine Learning is a busy, fast-paced course. A wide range of fundamen
   * Google Colab Hw - [Unsupervised learning on Kaggle dataset about the state of machine learning and data science 2020](https://github.com/dldisha/TSS21_Machine_Learning/blob/main/HW9_UnsupervisedLearning.ipynb)
 * Reinforcement learning
 * Research based project - Image Colorization - A comparative study
-  * Google Colab
+  * Google Colab - [Image Colorizarion](https://github.com/dldisha/TSS21_Machine_Learning/blob/main/Image_Colorization_Models.ipynb)
 
 ### Copyright Notice:
 
